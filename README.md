@@ -1,6 +1,6 @@
 # CW analysis of the NANOGrav 15-year dataset
 
-The notebooks in this repository show how the analysis was done in the paper "The NANOGrav 15-year Data Set: Bayesian Limits on Gravitational Waves from Individual Supermassive Black Hole Binaries". It also provides instruction on how one could reprodice those results on their own.
+The notebooks in this repository show how the analysis was done in the paper "The NANOGrav 15-year Data Set: Bayesian Limits on Gravitational Waves from Individual Supermassive Black Hole Binaries". It also provides instruction on how one could reproduce those results on their own.
 
 The following notebooks are available:
 
